@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import axios from 'axios';
 import authRoute from '../../components/HOC/authRoute';
-import AdminLayout from '../../components/layouts/adminLayout';
+import AdminLayout from '../../components/layouts/AdminLayout'
 
 import { getCookies } from '../../lib/utils';
 
